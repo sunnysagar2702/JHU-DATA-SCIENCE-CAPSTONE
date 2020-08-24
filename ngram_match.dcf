@@ -1,0 +1,12 @@
+name: ngram_match
+title: ngram_match
+username:
+account: mblackmo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 237209
+bundleId: 1084658
+url: https://mblackmo.shinyapps.io/ngram_match/
+when: 1511128619.16991
+asMultiple: FALSE
+asStatic: FALSE
