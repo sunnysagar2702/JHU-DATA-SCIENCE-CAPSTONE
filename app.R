@@ -1,6 +1,6 @@
 #' ---
 #' title: 'Task 06: Data Product'
-#' author: "Mark Blackmore"
+#' author: "Sunny Sagar"
 #' date: "`r format(Sys.Date())`"
 #' output: github_document
 #' ---
